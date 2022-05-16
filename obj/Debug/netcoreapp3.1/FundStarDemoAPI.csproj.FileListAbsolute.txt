@@ -1,0 +1,78 @@
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.exe
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.deps.json
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.runtimeconfig.json
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.runtimeconfig.dev.json
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.pdb
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\dev\FundStarDemoAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.csprojAssemblyReference.cache
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.AssemblyInfoInputs.cache
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.AssemblyInfo.cs
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.csproj.CoreCompileInputs.cache
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.RazorTargetAssemblyInfo.cache
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.csproj.CopyComplete
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\staticwebassets\FundStarDemoAPI.StaticWebAssets.Manifest.cache
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\staticwebassets\FundStarDemoAPI.StaticWebAssets.xml
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.dll
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.pdb
+C:\dev\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.genruntimeconfig.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.StaticWebAssets.xml
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.exe
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.deps.json
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.runtimeconfig.json
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.runtimeconfig.dev.json
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\FundStarDemoAPI.pdb
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.csproj.AssemblyReference.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.AssemblyInfoInputs.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.AssemblyInfo.cs
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\staticwebassets\FundStarDemoAPI.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.csproj.CopyComplete
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.pdb
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\obj\Debug\netcoreapp3.1\FundStarDemoAPI.genruntimeconfig.cache
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gabriel Werlich\Desktop\FundStar\FundStarDemoAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
